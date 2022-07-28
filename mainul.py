@@ -108,14 +108,14 @@ print  """
 \033[1;31;1m█ \033[1;92m [•] \033[1;31;1m Telegram : \033[1;92m MAUNUL-ISLAM420   \033[1;31;1m █
 \033[1;92m╚═════════════════════════════════════════════════════════╝
     """
-    print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-    print '\x1b[1;97m╔═══════════════════════════════════════════════╗'
-    print'\x1b[1;97m ║\x1b[1;92m decrypted by \x1b[1;96m : \x1b[1;93m MAINUL-ISLAM \x1b[1;97m    ║'
-    print'\x1b[1;97m ║\x1b[1;92m Github \x1b[1;96m : \x1b[1;93m M41NUL \x1b[1;97m		 	      ║'
-    print'\x1b[1;97m ║\x1b[1;92m Telegram \x1b[1;96m : \x1b[1;93m MAUNUL-ISLAM420 \x1b[1;97m ║'
-    time.sleep(0.05)    
-    print '\x1b[1;97m╚═══════════════════════════════════════════════╝'
-    print '                             '          
+print '\x1b[1;96m    Pakistani Facebook Account Cloner'
+print '\x1b[1;97m╔═══════════════════════════════════════════════╗'
+print'\x1b[1;97m ║\x1b[1;92m decrypted by \x1b[1;96m : \x1b[1;93m MAINUL-ISLAM \x1b[1;97m    ║'
+print'\x1b[1;97m ║\x1b[1;92m Github \x1b[1;96m : \x1b[1;93m M41NUL \x1b[1;97m		 	      ║'
+print'\x1b[1;97m ║\x1b[1;92m Telegram \x1b[1;96m : \x1b[1;93m MAUNUL-ISLAM420 \x1b[1;97m ║'
+time.sleep(0.05)    
+print '\x1b[1;97m╚═══════════════════════════════════════════════╝'
+print '                             '          
 jalan("\x1b[1;92mINPUT USERNAME & PASSWORD")
 print 25* '\033[1;96m-'
 print'                                        '
@@ -185,7 +185,7 @@ def login():
 \033[1;31;1m█ \033[1;92m [•] \033[1;31;1m Telegram : \033[1;92m MAUNUL-ISLAM420   \033[1;31;1m █
 \033[1;92m╚═════════════════════════════════════════════════════════╝
     """
-    print '\x1b[1;96m    Pakistani Facebook Account Cloner'
+print '\x1b[1;96m    Pakistani Facebook Account Cloner'
     print '\x1b[1;97m╔═══════════════════════════════════════════════╗'
     print'\x1b[1;97m ║\x1b[1;92m decrypted by \x1b[1;96m : \x1b[1;93m MAINUL-ISLAM \x1b[1;97m    ║'
     print'\x1b[1;97m ║\x1b[1;92m Github \x1b[1;96m : \x1b[1;93m M41NUL \x1b[1;97m		 	      ║'
@@ -290,7 +290,7 @@ def Zeek():
 \033[1;31;1m█ \033[1;92m [•] \033[1;31;1m Telegram : \033[1;92m MAUNUL-ISLAM420   \033[1;31;1m █
 \033[1;92m╚═════════════════════════════════════════════════════════╝
     """
-	print '\x1b[1;96m    Pakistani Facebook Account Cloner'
+print '\x1b[1;96m    Pakistani Facebook Account Cloner'
     print '\x1b[1;97m╔═══════════════════════════════════════════════╗'
     print'\x1b[1;97m ║\x1b[1;92m decrypted by \x1b[1;96m : \x1b[1;93m MAINUL-ISLAM \x1b[1;97m    ║'
     print'\x1b[1;97m ║\x1b[1;92m Github \x1b[1;96m : \x1b[1;93m M41NUL \x1b[1;97m		 	      ║'
@@ -348,7 +348,7 @@ def action():
 \033[1;31;1m█ \033[1;92m [•] \033[1;31;1m Telegram : \033[1;92m MAUNUL-ISLAM420   \033[1;31;1m █
 \033[1;92m╚═════════════════════════════════════════════════════════╝
     """
-    print '\x1b[1;96m    Pakistani Facebook Account Cloner'
+print '\x1b[1;96m    Pakistani Facebook Account Cloner'
     print '\x1b[1;97m╔═══════════════════════════════════════════════╗'
     print'\x1b[1;97m ║\x1b[1;92m decrypted by \x1b[1;96m : \x1b[1;93m MAINUL-ISLAM \x1b[1;97m    ║'
     print'\x1b[1;97m ║\x1b[1;92m Github \x1b[1;96m : \x1b[1;93m M41NUL \x1b[1;97m		 	      ║'
@@ -398,7 +398,7 @@ def action():
 \033[1;31;1m█ \033[1;92m [•] \033[1;31;1m Telegram : \033[1;92m MAUNUL-ISLAM420   \033[1;31;1m █
 \033[1;92m╚═════════════════════════════════════════════════════════╝
     """
-        print '\x1b[1;96m    Pakistani Facebook Account Cloner'
+print '\x1b[1;96m    Pakistani Facebook Account Cloner'
     print '\x1b[1;97m╔═══════════════════════════════════════════════╗'
     print'\x1b[1;97m ║\x1b[1;92m decrypted by \x1b[1;96m : \x1b[1;93m MAINUL-ISLAM \x1b[1;97m    ║'
     print'\x1b[1;97m ║\x1b[1;92m Github \x1b[1;96m : \x1b[1;93m M41NUL \x1b[1;97m		 	      ║'
@@ -446,7 +446,7 @@ def action():
 \033[1;31;1m█ \033[1;92m [•] \033[1;31;1m Telegram : \033[1;92m MAUNUL-ISLAM420   \033[1;31;1m █
 \033[1;92m╚═════════════════════════════════════════════════════════╝
     """
-        print '\x1b[1;96m    Pakistani Facebook Account Cloner'
+print '\x1b[1;96m    Pakistani Facebook Account Cloner'
     print '\x1b[1;97m╔═══════════════════════════════════════════════╗'
     print'\x1b[1;97m ║\x1b[1;92m decrypted by \x1b[1;96m : \x1b[1;93m MAINUL-ISLAM \x1b[1;97m    ║'
     print'\x1b[1;97m ║\x1b[1;92m Github \x1b[1;96m : \x1b[1;93m M41NUL \x1b[1;97m		 	      ║'
@@ -495,7 +495,7 @@ def action():
 \033[1;31;1m█ \033[1;92m [•] \033[1;31;1m Telegram : \033[1;92m MAUNUL-ISLAM420   \033[1;31;1m █
 \033[1;92m╚═════════════════════════════════════════════════════════╝
     """
-        print '\x1b[1;96m    Pakistani Facebook Account Cloner'
+print '\x1b[1;96m    Pakistani Facebook Account Cloner'
     print '\x1b[1;97m╔═══════════════════════════════════════════════╗'
     print'\x1b[1;97m ║\x1b[1;92m decrypted by \x1b[1;96m : \x1b[1;93m MAINUL-ISLAM \x1b[1;97m    ║'
     print'\x1b[1;97m ║\x1b[1;92m Github \x1b[1;96m : \x1b[1;93m M41NUL \x1b[1;97m		 	      ║'
@@ -543,7 +543,7 @@ def action():
 \033[1;31;1m█ \033[1;92m [•] \033[1;31;1m Telegram : \033[1;92m MAUNUL-ISLAM420   \033[1;31;1m █
 \033[1;92m╚═════════════════════════════════════════════════════════╝
     """
-        print '\x1b[1;96m    Pakistani Facebook Account Cloner'
+print '\x1b[1;96m    Pakistani Facebook Account Cloner'
     print '\x1b[1;97m╔═══════════════════════════════════════════════╗'
     print'\x1b[1;97m ║\x1b[1;92m decrypted by \x1b[1;96m : \x1b[1;93m MAINUL-ISLAM \x1b[1;97m    ║'
     print'\x1b[1;97m ║\x1b[1;92m Github \x1b[1;96m : \x1b[1;93m M41NUL \x1b[1;97m		 	      ║'
@@ -607,7 +607,7 @@ def action():
 \033[1;31;1m█ \033[1;92m [•] \033[1;31;1m Telegram : \033[1;92m MAUNUL-ISLAM420   \033[1;31;1m █
 \033[1;92m╚═════════════════════════════════════════════════════════╝
     """
-    print '\x1b[1;96m    Pakistani Facebook Account Cloner'
+print '\x1b[1;96m    Pakistani Facebook Account Cloner'
     print '\x1b[1;97m╔═══════════════════════════════════════════════╗'
     print'\x1b[1;97m ║\x1b[1;92m decrypted by \x1b[1;96m : \x1b[1;93m MAINUL-ISLAM \x1b[1;97m    ║'
     print'\x1b[1;97m ║\x1b[1;92m Github \x1b[1;96m : \x1b[1;93m M41NUL \x1b[1;97m		 	      ║'
